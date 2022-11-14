@@ -1,0 +1,15 @@
+
+
+.report-table{
+  border: 1px solid #d7d7d7;
+  width: 100%;
+}
+.report-table th {
+  background: #ededed;
+}
+.report-table th,
+.report-table td {
+  border: 1px solid #d7d7d7;
+  padding: 10px;
+}
+
